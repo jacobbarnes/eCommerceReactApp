@@ -13,7 +13,7 @@ jedi==0.16.0
 parso==0.6.2
 prompt-toolkit==3.0.3
 ptpython==3.0.1
-Pygments==2.5.2
+Pygments==2.7.4
 pytz==2019.3
 requests==2.23.0
 six==1.14.0
